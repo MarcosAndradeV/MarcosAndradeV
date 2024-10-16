@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on ...
 
-- 💬 Ask me about **Rust**
+- 💬 Ask me about **Rust** and **C**
 
 - 📫 How to reach me **mastermarcos1212@hotmail.com**
 
