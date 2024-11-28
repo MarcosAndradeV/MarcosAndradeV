@@ -1,7 +1,7 @@
 <h1 align="center">🖥️ Marcos V Andrade</h1>
 <h3 align="center">Programing is fun.</h3>
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on [cortex lang](https://github.com/MarcosAndradeV/cortex-lang)
 
 - 💬 Ask me about **Rust** and **C**
 
