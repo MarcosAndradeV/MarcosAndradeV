@@ -1,10 +1,11 @@
 # 💫About Me :
-Hi, I'm Marcos . I'm a computer engineering Student excited to share my projects and learn from the open-source community.
-I'm looking for new opportunities to grow and improve, so feel free to reach out and say hello.
+Hi, I'm Marcos . I'm a computer engineering Student excited to share my projects and learn from the open-source community. I'm looking for new opportunities to grow and improve, so feel free to reach out and say hello.
 
-Languages: Rust, Python and Go
-Interests: Compilers, VMs and code Challenges
-Current Projects: cortex-lang
+**Languages**: Rust, Python and Go
+
+**Interests**: Compilers, VMs and code Challenges
+
+**Current Projects**: cortex-lang
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marcos-vinicius-andrade-alemida-2a84a6293)
