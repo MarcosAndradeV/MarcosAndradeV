@@ -1,7 +1,7 @@
 # 💫About Me:
 
 Hi, I'm Marcos. 
-I'm a computer engineering Student excited to share my projects and learn from the open-source community.
+I'm a computer engineering student excited to share my projects and learn from the open-source community.
 I'm looking for new opportunities to grow and improve, so feel free to reach out and say hello.
 
 **Languages**: Rust, Python and Go
