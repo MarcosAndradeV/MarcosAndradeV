@@ -1,4 +1,3 @@
-# 💫About Me:
 
 Hi, I'm Marcos. 
 I'm a computer engineering student excited to share my projects and learn from the open-source community.
